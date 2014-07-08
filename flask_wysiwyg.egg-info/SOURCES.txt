@@ -1,0 +1,8 @@
+setup.py
+flask_wysiwyg/__init__.py
+flask_wysiwyg/wysiwyg.py
+flask_wysiwyg.egg-info/PKG-INFO
+flask_wysiwyg.egg-info/SOURCES.txt
+flask_wysiwyg.egg-info/dependency_links.txt
+flask_wysiwyg.egg-info/requires.txt
+flask_wysiwyg.egg-info/top_level.txt
